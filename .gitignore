@@ -1,0 +1,8 @@
+*.suo
+*.user
+*.bak
+*.sln.cache
+*/bin
+*/obj
+_ReSharper.*
+*.resharper.user
